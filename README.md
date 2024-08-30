@@ -8,5 +8,8 @@ Data Source:
 I pulled various tables together in this [google sheet document](https://docs.google.com/spreadsheets/d/1HRXJwgBlgX5bLsdmGya69bfxb_d6h61XKywI23T4V-8/edit?usp=sharing).  
 I also uploaded the document in this repository, check it out [here](https://github.com/roselinetwagiramariya/U.S.-Sub-Saharan-Africa-Trade-Data/blob/main/U.S.%E2%80%93Sub-Saharan%20Africa%20Trade%20Data.xlsx). 
 
+Data Analysis: 
+I'm visualizing the data in Tableau and you can check it out [here](https://public.tableau.com/app/profile/roseline.twagiramariya/viz/USSub-saharanAfricaTrade/U_S_ImportsbyProduct2023?publish=yes). 
+
 
 STATUS: FINALIZING PROJECT, CHECK BACK ON 9/1 FOR RESULTS. 

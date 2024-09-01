@@ -12,4 +12,4 @@ Data Analysis:
 I'm visualizing the data in Tableau and you can check it out [here](https://public.tableau.com/app/profile/roseline.twagiramariya/viz/USSub-saharanAfricaTrade/U_S_ImportsbyProduct2023?publish=yes). 
 
 
-STATUS: FINALIZING PROJECT, CHECK BACK ON 9/1 FOR RESULTS. 
+STATUS: FINALIZING PROJECT
